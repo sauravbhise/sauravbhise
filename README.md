@@ -35,5 +35,5 @@
 - ⚡ Fun fact: ...
 -->
 
-[website]: https://sauravbhise.github.io/
+[website]: https://sauravbhise.netlify.app/
 [stack]: https://stackoverflow.com/users/13818893/sauravbhise
