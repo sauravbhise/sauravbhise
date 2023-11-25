@@ -18,7 +18,7 @@ GitHub Campus Expert 🚩 from India.
 
 - :seedling: Exploring Cloud Computing ☁.
 
-- :zap: Looking for internships in Backend Development / Cloud Computing.
+- :zap: Looking for opportunities in Backend Development / DevOps.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-sauravbhise-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sauravbhise/)
 
